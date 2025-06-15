@@ -1,0 +1,1 @@
+# Tidak ada dependency khusus karena menggunakan modul bawaan Python
